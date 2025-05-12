@@ -29,8 +29,8 @@
 <div align="center">
 
   <a href="https://github.com/henry-labo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henry-labo&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-labo&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henry-labo&theme=react&hide_border=false&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-labo&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 
 </div>
 <br><br><br>
